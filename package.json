@@ -6,7 +6,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git://github.com/sononix/reactjs-boilerplate.git"
+    "url": "git://github.com/sononix/reactjs-boilerplate-reload.git"
   },
   "devDependencies": {
     "browserify": "^8.0.2",
