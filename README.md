@@ -2,6 +2,8 @@
 
 Start developing React JS applications using gulp.
 
+* Run `npm install`
+
 ### Development
 * Run `gulp`
 * This starts a webserver on port 8888 : 'http://localhost:8888' - this can be changed in the gulpfile
